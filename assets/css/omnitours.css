@@ -11,6 +11,8 @@ html, body {
   min-height: 100vh;
   flex-direction: column;
 }
+
+
 section.content {
   flex: 1;
 }
@@ -19,6 +21,9 @@ section.content {
 }
 .navbar-default {
   border-color: rgba(99, 99, 97, 0.12) !important;
+}
+.info-omni {
+  position: relative !important;
 }
 /* ===== Setting ====== */
 /* ===== View A ====== */
