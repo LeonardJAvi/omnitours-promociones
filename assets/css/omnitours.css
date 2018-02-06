@@ -15,6 +15,7 @@ html, body {
 
 section.content {
   flex: 1;
+  position: relative;
 }
 .portfolioImg {
   width: 100%;
