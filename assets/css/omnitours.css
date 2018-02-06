@@ -25,6 +25,9 @@ section.content {
 .info-omni {
   position: relative !important;
 }
+.separacion-info-omni{
+   position: relative !important;
+}
 /* ===== Setting ====== */
 /* ===== View A ====== */
 section#filter-destinos {
