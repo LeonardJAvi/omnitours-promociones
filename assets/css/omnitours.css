@@ -15,8 +15,13 @@ html, body {
 
 section.content {
   flex: 1;
-  position: relative;
+  position: relative !important;
 }
+ 
+footer{
+  position: relative !important;
+}
+
 .portfolioImg {
   width: 100%;
 }
